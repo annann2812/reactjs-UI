@@ -4,16 +4,16 @@ export default {
 	theme: {
 		extend: {
 			colors: {
-				headerBg: "#FDEDEC", // Soft Blush
-				primary: "#333333", // Charcoal
-				secondary: "#8FD3B0", // Seafoam Green
-				navlinks: "#FFFFF0", // Ivory
-				secondaryBtn: "#8B5E3C", // Chestnut Brown
-				adsBar: "#3B9C9C", // Teal Blue
-				adsLogo: "#8A8A8A", // Pewter
-				catBorder: "#D3D3D3", // Pewter
-				disabledText: "#A9A9A9", // Pewter
-				darkFooter: "#3B302A", // Espresso
+				headerBg: "#FFF8F5",
+				primary: "#28221e",
+				secondary: "#9e624c",
+				navlinks: "#f2ebe5",
+				secondaryBtn: "#534e4b",
+				adsBar: "#F2E5DA",
+				adsLogo: "#79736d",
+				catBorder: "#E9E9E8",
+				disabledText: "#9B9895",
+				darkFooter: "#1A1613",
 			},
 		},
 	},
